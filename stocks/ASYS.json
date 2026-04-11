@@ -1,17 +1,17 @@
 {
   "ok": true,
   "sheet": "ASYS",
-  "exchange": "ASYS",
-  "ticker": "2026-04-11 18:33:43",
-  "symbol": "ASYS:2026-04-11 18:33:43",
-  "last_recalc_time": "",
+  "exchange": "NASDAQ",
+  "ticker": "ASYS",
+  "symbol": "NASDAQ:ASYS",
+  "last_recalc_time": "2026-04-11 18:33:43",
   "config": {
     "years_to_check_back": "3",
     "start_date": "4/11/2023",
     "end_date": "4/11/2026",
     "last_recalc_time": "2026-04-11 18:33:43"
   },
-  "generated_at": "2026-04-11 18:33:45",
+  "generated_at": "2026-04-11 18:44:21",
   "row_count": 753,
   "columns": [
     "date",
