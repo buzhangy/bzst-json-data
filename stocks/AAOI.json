@@ -1,17 +1,17 @@
 {
   "ok": true,
   "sheet": "AAOI",
-  "exchange": "AAOI",
-  "ticker": "2026-04-11 18:33:43",
-  "symbol": "AAOI:2026-04-11 18:33:43",
-  "last_recalc_time": "",
+  "exchange": "NASDAQ",
+  "ticker": "AAOI",
+  "symbol": "NASDAQ:AAOI",
+  "last_recalc_time": "2026-04-11 18:33:43",
   "config": {
     "years_to_check_back": "3",
     "start_date": "4/11/2023",
     "end_date": "4/11/2026",
     "last_recalc_time": "2026-04-11 18:33:43"
   },
-  "generated_at": "2026-04-11 18:33:44",
+  "generated_at": "2026-04-11 18:44:19",
   "row_count": 753,
   "columns": [
     "date",
