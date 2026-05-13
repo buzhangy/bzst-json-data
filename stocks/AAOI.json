@@ -4,14 +4,14 @@
   "exchange": "NASDAQ",
   "ticker": "AAOI",
   "symbol": "NASDAQ:AAOI",
-  "last_recalc_time": "2026-05-13 12:43:04",
+  "last_recalc_time": "2026-05-13 12:47:28",
   "config": {
     "years_to_check_back": "3",
     "start_date": "5/13/2023",
     "end_date": "5/13/2026",
-    "last_recalc_time": "2026-05-13 12:43:04"
+    "last_recalc_time": "2026-05-13 12:47:28"
   },
-  "generated_at": "2026-05-13 12:45:26",
+  "generated_at": "2026-05-13 12:47:34",
   "row_count": 751,
   "columns": [
     "date",
