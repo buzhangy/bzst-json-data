@@ -4,14 +4,14 @@
   "exchange": "NYSE",
   "ticker": "RXO",
   "symbol": "NYSE:RXO",
-  "last_recalc_time": "2026-05-14 18:28:33",
+  "last_recalc_time": "2026-05-14 19:28:33",
   "config": {
     "years_to_check_back": "4",
     "start_date": "5/14/2022",
     "end_date": "5/14/2026",
-    "last_recalc_time": "2026-05-14 18:28:33"
+    "last_recalc_time": "2026-05-14 19:28:33"
   },
-  "generated_at": "2026-05-14 18:28:39",
+  "generated_at": "2026-05-14 19:28:39",
   "row_count": 889,
   "columns": [
     "date",
