@@ -4,14 +4,14 @@
   "exchange": "NASDAQ",
   "ticker": "ASYS",
   "symbol": "NASDAQ:ASYS",
-  "last_recalc_time": "2026-05-22 00:28:33",
+  "last_recalc_time": "2026-05-22 01:28:33",
   "config": {
     "years_to_check_back": "4",
     "start_date": "5/22/2022",
     "end_date": "5/22/2026",
-    "last_recalc_time": "2026-05-22 00:28:33"
+    "last_recalc_time": "2026-05-22 01:28:33"
   },
-  "generated_at": "2026-05-22 00:28:36",
+  "generated_at": "2026-05-22 01:28:36",
   "row_count": 1003,
   "columns": [
     "date",
@@ -35,7 +35,7 @@
     "high": "21.16",
     "low": "19.53",
     "close": "20.95",
-    "volume": "193699"
+    "volume": "195859"
   },
   "rows": [
     {
@@ -8060,7 +8060,7 @@
       "high": "21.16",
       "low": "19.53",
       "close": "20.95",
-      "volume": "193699"
+      "volume": "195859"
     }
   ]
 }
