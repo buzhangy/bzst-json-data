@@ -4,14 +4,14 @@
   "exchange": "NYSE",
   "ticker": "LC",
   "symbol": "NYSE:LC",
-  "last_recalc_time": "2026-05-25 13:42:28",
+  "last_recalc_time": "2026-05-25 14:28:32",
   "config": {
     "years_to_check_back": "2",
     "start_date": "5/25/2024",
     "end_date": "5/25/2026",
-    "last_recalc_time": "2026-05-25 13:42:28"
+    "last_recalc_time": "2026-05-25 14:28:32"
   },
-  "generated_at": "2026-05-25 13:43:29",
+  "generated_at": "2026-05-25 14:28:43",
   "row_count": 499,
   "columns": [
     "date",
