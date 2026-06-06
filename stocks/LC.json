@@ -4,14 +4,14 @@
   "exchange": "NYSE",
   "ticker": "LC",
   "symbol": "NYSE:LC",
-  "last_recalc_time": "2026-06-06 01:28:33",
+  "last_recalc_time": "2026-06-06 02:28:33",
   "config": {
     "years_to_check_back": "4",
     "start_date": "6/6/2022",
     "end_date": "6/6/2026",
-    "last_recalc_time": "2026-06-06 01:28:33"
+    "last_recalc_time": "2026-06-06 02:28:33"
   },
-  "generated_at": "2026-06-06 01:28:40",
+  "generated_at": "2026-06-06 02:28:41",
   "row_count": 1004,
   "columns": [
     "date",
@@ -35,7 +35,7 @@
     "high": "17.55",
     "low": "17.02",
     "close": "17.15",
-    "volume": "2183879"
+    "volume": "2229434"
   },
   "rows": [
     {
@@ -8068,7 +8068,7 @@
       "high": "17.55",
       "low": "17.02",
       "close": "17.15",
-      "volume": "2183879"
+      "volume": "2229434"
     }
   ]
 }
