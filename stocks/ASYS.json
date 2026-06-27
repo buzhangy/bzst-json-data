@@ -4,14 +4,14 @@
   "exchange": "NASDAQ",
   "ticker": "ASYS",
   "symbol": "NASDAQ:ASYS",
-  "last_recalc_time": "2026-06-27 00:28:34",
+  "last_recalc_time": "2026-06-27 01:28:33",
   "config": {
     "years_to_check_back": "4",
     "start_date": "6/27/2022",
     "end_date": "6/27/2026",
-    "last_recalc_time": "2026-06-27 00:28:34"
+    "last_recalc_time": "2026-06-27 01:28:33"
   },
-  "generated_at": "2026-06-27 00:28:37",
+  "generated_at": "2026-06-27 01:28:37",
   "row_count": 1004,
   "columns": [
     "date",
