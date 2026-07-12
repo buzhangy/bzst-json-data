@@ -4,14 +4,14 @@
   "exchange": "NYSE",
   "ticker": "JBGS",
   "symbol": "NYSE:JBGS",
-  "last_recalc_time": "2026-07-12 07:28:32",
+  "last_recalc_time": "2026-07-12 08:29:06",
   "config": {
     "years_to_check_back": "4",
     "start_date": "7/12/2022",
     "end_date": "7/12/2026",
-    "last_recalc_time": "2026-07-12 07:28:32"
+    "last_recalc_time": "2026-07-12 08:29:06"
   },
-  "generated_at": "2026-07-12 07:28:42",
+  "generated_at": "2026-07-12 08:29:36",
   "row_count": 1003,
   "columns": [
     "date",
