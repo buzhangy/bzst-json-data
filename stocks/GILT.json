@@ -4,14 +4,14 @@
   "exchange": "NASDAQ",
   "ticker": "GILT",
   "symbol": "NASDAQ:GILT",
-  "last_recalc_time": "2026-07-24 02:28:33",
+  "last_recalc_time": "2026-07-24 03:28:33",
   "config": {
     "years_to_check_back": "4",
     "start_date": "7/24/2022",
     "end_date": "7/24/2026",
-    "last_recalc_time": "2026-07-24 02:28:33"
+    "last_recalc_time": "2026-07-24 03:28:33"
   },
-  "generated_at": "2026-07-24 02:28:39",
+  "generated_at": "2026-07-24 03:28:39",
   "row_count": 1003,
   "columns": [
     "date",
