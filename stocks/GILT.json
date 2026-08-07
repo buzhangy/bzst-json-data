@@ -4,14 +4,14 @@
   "exchange": "NASDAQ",
   "ticker": "GILT",
   "symbol": "NASDAQ:GILT",
-  "last_recalc_time": "2026-08-07 00:28:33",
+  "last_recalc_time": "2026-08-07 01:28:34",
   "config": {
     "years_to_check_back": "4",
     "start_date": "8/7/2022",
     "end_date": "8/7/2026",
-    "last_recalc_time": "2026-08-07 00:28:33"
+    "last_recalc_time": "2026-08-07 01:28:34"
   },
-  "generated_at": "2026-08-07 00:28:37",
+  "generated_at": "2026-08-07 01:28:41",
   "row_count": 1003,
   "columns": [
     "date",
@@ -34,8 +34,8 @@
     "open": "11.4",
     "high": "11.85",
     "low": "11.1",
-    "close": "11.28",
-    "volume": "1172608"
+    "close": "11.29",
+    "volume": "1176644"
   },
   "rows": [
     {
@@ -8059,8 +8059,8 @@
       "open": "11.4",
       "high": "11.85",
       "low": "11.1",
-      "close": "11.28",
-      "volume": "1172608"
+      "close": "11.29",
+      "volume": "1176644"
     }
   ]
 }
