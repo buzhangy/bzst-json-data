@@ -4,15 +4,15 @@
   "exchange": "NASDAQ",
   "ticker": "AAOI",
   "symbol": "NASDAQ:AAOI",
-  "last_recalc_time": "2026-09-01 17:28:33",
+  "last_recalc_time": "2026-09-01 18:28:35",
   "config": {
     "years_to_check_back": "4",
     "start_date": "9/1/2022",
     "end_date": "9/1/2026",
-    "last_recalc_time": "2026-09-01 17:28:33"
+    "last_recalc_time": "2026-09-01 18:28:35"
   },
-  "generated_at": "2026-09-01 17:28:34",
-  "row_count": 1002,
+  "generated_at": "2026-09-01 18:28:36",
+  "row_count": 1003,
   "columns": [
     "date",
     "open",
@@ -30,12 +30,12 @@
     "volume": "150534"
   },
   "last_row": {
-    "date": "8/31/2026 16:00:00",
-    "open": "107.52",
-    "high": "108.67",
-    "low": "104.06",
-    "close": "107.69",
-    "volume": "4609495"
+    "date": "9/1/2026 16:00:00",
+    "open": "104.45",
+    "high": "105.74",
+    "low": "101.23",
+    "close": "103.48",
+    "volume": "4813062"
   },
   "rows": [
     {
@@ -8053,6 +8053,14 @@
       "low": "104.06",
       "close": "107.69",
       "volume": "4609495"
+    },
+    {
+      "date": "9/1/2026 16:00:00",
+      "open": "104.45",
+      "high": "105.74",
+      "low": "101.23",
+      "close": "103.48",
+      "volume": "4813062"
     }
   ]
 }
