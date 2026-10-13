@@ -4,15 +4,15 @@
   "exchange": "NYSE",
   "ticker": "RXO",
   "symbol": "NYSE:RXO",
-  "last_recalc_time": "2026-10-13 16:28:33",
+  "last_recalc_time": "2026-10-13 17:28:34",
   "config": {
     "years_to_check_back": "4",
     "start_date": "10/13/2022",
     "end_date": "10/13/2026",
-    "last_recalc_time": "2026-10-13 16:28:33"
+    "last_recalc_time": "2026-10-13 17:28:34"
   },
-  "generated_at": "2026-10-13 16:28:42",
-  "row_count": 992,
+  "generated_at": "2026-10-13 17:28:42",
+  "row_count": 993,
   "columns": [
     "date",
     "open",
@@ -30,12 +30,12 @@
     "volume": "8256"
   },
   "last_row": {
-    "date": "10/12/2026 16:00:00",
-    "open": "28.92",
-    "high": "28.93",
-    "low": "28.63",
-    "close": "28.69",
-    "volume": "3082429"
+    "date": "10/13/2026 16:00:00",
+    "open": "28.61",
+    "high": "28.78",
+    "low": "28.36",
+    "close": "28.6",
+    "volume": "5495256"
   },
   "rows": [
     {
@@ -7973,6 +7973,14 @@
       "low": "28.63",
       "close": "28.69",
       "volume": "3082429"
+    },
+    {
+      "date": "10/13/2026 16:00:00",
+      "open": "28.61",
+      "high": "28.78",
+      "low": "28.36",
+      "close": "28.6",
+      "volume": "5495256"
     }
   ]
 }
