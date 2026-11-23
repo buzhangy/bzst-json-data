@@ -4,15 +4,15 @@
   "exchange": "NYSE",
   "ticker": "JBGS",
   "symbol": "NYSE:JBGS",
-  "last_recalc_time": "2026-11-23 17:28:34",
+  "last_recalc_time": "2026-11-23 18:28:33",
   "config": {
     "years_to_check_back": "4",
     "start_date": "11/23/2022",
     "end_date": "11/23/2026",
-    "last_recalc_time": "2026-11-23 17:28:34"
+    "last_recalc_time": "2026-11-23 18:28:33"
   },
-  "generated_at": "2026-11-23 17:28:52",
-  "row_count": 1002,
+  "generated_at": "2026-11-23 18:28:48",
+  "row_count": 1003,
   "columns": [
     "date",
     "open",
@@ -30,12 +30,12 @@
     "volume": "1204621"
   },
   "last_row": {
-    "date": "11/20/2026 16:00:00",
-    "open": "11.81",
-    "high": "12.26",
-    "low": "11.77",
-    "close": "12.15",
-    "volume": "1648151"
+    "date": "11/23/2026 16:00:00",
+    "open": "12.28",
+    "high": "12.28",
+    "low": "11.91",
+    "close": "12.18",
+    "volume": "783683"
   },
   "rows": [
     {
@@ -8053,6 +8053,14 @@
       "low": "11.77",
       "close": "12.15",
       "volume": "1648151"
+    },
+    {
+      "date": "11/23/2026 16:00:00",
+      "open": "12.28",
+      "high": "12.28",
+      "low": "11.91",
+      "close": "12.18",
+      "volume": "783683"
     }
   ]
 }
